@@ -284,17 +284,17 @@ To deploy your own instance:
 
 | Stage | Owner |
 |---|---|
-| Data Cleaning | Santhosh |
+| Data Cleaning | Santhosh, Satish |
 | Feature Engineering | Thivya, Santhosh, Srishti |
 | Machine Learning Models | Surendhar |
 | Database Design & Loading | Srishti |
 | AI Recommendation Engine | Gowtham |
 | RAG Component | Satish, Anil |
-| Frontend & Dashboard Design | Harshitha, Santhosh, Gowtham |
+| Frontend & Dashboard Design | Harshitha, Santhosh, Gowtham, Srishti |
 | EDA | Anil, Harshitha |
 | Backend | Srishti |
-| Testing | Surendhar |
-| Deployment | Thivya |
+| Testing | Surendhar, Thivya|
+| Deployment | Thivya, Srishti|
 
 ---
 
